@@ -42,8 +42,21 @@ This repository contains projects submitted as the final assignment for the **Da
 ```
 
 ## Technologies Used
-- **Programming Language:** Python
-- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn ...
+### Programming Language:
+- Python
+
+### Libraries & Tools:
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- WordCloud
+- NetworkX
+- MLxtend
+- Scikit-learn
+- Yellowbrick
+- SciPy
+- mpl_toolkits.mplot3d
 
 ## Usage
 1. Clone the repository:
