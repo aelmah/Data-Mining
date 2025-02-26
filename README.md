@@ -48,7 +48,7 @@ This repository contains projects submitted as the final assignment for the **Da
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/data_mining_projects.git](https://github.com/aelmah/Data-Mining)
+   git clone https://github.com/your-username/data_mining_projects.git
    ```
 2. Navigate to the project folder and explore the Jupyter Notebooks for detailed implementation.
 
