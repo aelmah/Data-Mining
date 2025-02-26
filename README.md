@@ -27,13 +27,13 @@ This repository contains projects submitted as the final assignment for the **Da
 ```
 📂 data_mining/
  ├── grocery_market_analysis/      # Project 1: Apriori & Association Rules
- │   ├── data/                     # Dataset used for analysis
+ │   ├── data                      # Dataset used for analysis
  │   ├── notebook.ipynb             # Jupyter Notebook with full code and explanations
  │   ├── paper.pdf                  # Research article
  │                   
  │
  ├── customer_segmentation/        # Project 2: Clustering Techniques
- │   ├── data/                     # Dataset used for segmentation
+ │   ├── data                      # Dataset used for segmentation
  │   ├── notebook.ipynb             # Jupyter Notebook with full code and explanations
  │   ├── paper.pdf                  # Research article
  │                    
