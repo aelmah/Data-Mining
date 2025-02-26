@@ -53,7 +53,7 @@ This repository contains projects submitted as the final assignment for the **Da
 2. Navigate to the project folder and explore the Jupyter Notebooks for detailed implementation.
 
 ## Acknowledgments
-These projects were completed as part of the **Data Mining** module coursework and were supervised by  [RIAD SOLH Anouar]([Professor_ResearchGate_Link](https://www.researchgate.net/scientific-contributions/Anouar-Riad-Solh-2071198081)).
+These projects were completed as part of the **Data Mining** module coursework and were supervised by  [RIAD SOLH Anouar](https://www.researchgate.net/scientific-contributions/Anouar-Riad-Solh-2071198081).
 
 ---
 For any questions or suggestions, feel free to reach out!
