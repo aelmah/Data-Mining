@@ -30,13 +30,13 @@ This repository contains projects submitted as the final assignment for the **Da
  │   ├── data/                     # Dataset used for analysis
  │   ├── notebook.ipynb             # Jupyter Notebook with full code and explanations
  │   ├── paper.pdf                  # Research article
- │   ├── README.md                  
+ │                   
  │
  ├── customer_segmentation/        # Project 2: Clustering Techniques
  │   ├── data/                     # Dataset used for segmentation
  │   ├── notebook.ipynb             # Jupyter Notebook with full code and explanations
  │   ├── paper.pdf                  # Research article
- │   ├── README.md                  
+ │                    
  │
  ├── README.md                     # Main repository documentation
 ```
