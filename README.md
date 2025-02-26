@@ -2,7 +2,7 @@
 
 This repository contains projects submitted as the final assignment for the **Data Mining** module. The projects focus on key data mining techniques applied to real-world datasets.
 
-## Projects Overview
+## 📂 Projects Overview
 
 ### 1. Grocery Market Transactions Analysis
 - **Objective:** Analyze transaction data to uncover hidden patterns and relationships between purchased items.
