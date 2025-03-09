@@ -66,7 +66,7 @@ This repository contains projects submitted as the final assignment for the **Da
 2. Navigate to the project folder and explore the Jupyter Notebooks for detailed implementation.
 
 ## Acknowledgments
-Special thaks to my supervisor [RIAD SOLH Anouar](https://www.researchgate.net/scientific-contributions/Anouar-Riad-Solh-2071198081).
+Special thanks to my supervisor [RIAD SOLH Anouar](https://www.researchgate.net/scientific-contributions/Anouar-Riad-Solh-2071198081).
 
 ---
 For any questions or suggestions, feel free to reach out!
