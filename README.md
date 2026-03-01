@@ -1,4 +1,4 @@
-# Data Mining Final Projects
+# Data Mining Final Project
 
 This repository contains a project submitted as the final assignment for the **Data Mining** module. The projects focus on key data mining techniques applied to real-world datasets.
 
